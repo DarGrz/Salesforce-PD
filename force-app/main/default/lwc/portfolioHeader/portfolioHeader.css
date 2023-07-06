@@ -1,0 +1,22 @@
+img {
+    border-radius: 5px;
+    margin: 0 auto;
+    max-height: 400px;
+    object-fit:cover;
+    
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
